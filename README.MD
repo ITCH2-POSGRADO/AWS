@@ -9,5 +9,12 @@ Luego abrimos la terminal y ponemos el siguiente comando
 
 
 Nos vamos a conectar a filezilla para poder subir carpetas a ec2, pero esto no es recmendable
-nos conectamos por filezilla
+nos conectamos por filezilla, servidor, poemos direccion iip
+
+
+
+
+https://app.cloudcraft.co/blueprint/85534608-eb52-4d02-a6ec-c80ded3f6d91
+
+Intentaremos subir una carpeta con filezilla
 
