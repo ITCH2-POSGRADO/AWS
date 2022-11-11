@@ -18,3 +18,30 @@ https://app.cloudcraft.co/blueprint/85534608-eb52-4d02-a6ec-c80ded3f6d91
 
 Intentaremos subir una carpeta con filezilla
 
+
+github
+configuracion
+ssh keys
+add ssh keys
+dejamos en blanco
+nos vamos a la instancia
+ssh-keygen
+ingresamos el directorio
+ ssh-keygen
+ enter
+ enter
+ enter
+ y nos genera el par de llaves
+ agregamos la llave publica
+ ahora nos vamos a home
+ git clone repositorio
+ 
+ 
+ https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-20-04-es
+ opecion 2
+ 
+ 
+ df -h
+ https://codigoencasa.com/ampliar-el-espacio-de-disco-duro-en-ubuntu-aws-ec2/ subir volumen en ec2
+ 
+ 
